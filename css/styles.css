@@ -70,12 +70,33 @@ em{
 	}
 
 	#self{
-		width: 100%
+		width: 100%;
 	}
 
 	#about,
 	#contact,
 	#portfolio{
-		font-size: 17px;
+		font-size: 25px;
 	}
+
+	.name{
+		width= 100%;
+	}
+}
+
+
+#tigerlight,
+#type-poster {
+
+	margin-top: 60px;
+}
+
+
+.name{
+	position: fixed;
+}
+
+.right{
+	float: left;
+	margin-left: -350px;
 }
