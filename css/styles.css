@@ -3,3 +3,79 @@ body{
 	color: white;
 }
 
+
+
+
+#about{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+	color: grey;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#portfolio{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+	color: grey;
+	font-family: 'Quicksand', sans-serif;
+}
+
+#contact{
+	margin-left: 20px;
+	margin-right: 20px;
+	text-decoration: none;
+	color: grey;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+#about:hover,
+#portfolio:hover,
+#contact:hover{
+	color: #002434;
+	font-size:15px;
+}
+
+#copy{
+	font-size: 7px;
+	float: right;
+}
+nav{
+	text-align: center;
+	margin-top: 20px;
+	margin-bottom: 15px;
+	background: #3E3E40 ;
+	border-radius: 100%;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+
+h2{
+	text-align: center;
+}
+
+em{
+	font-size: 10px;
+	color: #a6a6a6;
+}
+
+@media only screen and (min-width:1024px) {
+
+	#content{
+	font-size: 17px;
+	color: #a6a6a6;
+	}
+
+	#self{
+		width: 100%
+	}
+
+	#about,
+	#contact,
+	#portfolio{
+		font-size: 17px;
+	}
+}
