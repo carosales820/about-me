@@ -4,7 +4,9 @@ body{
 }
 
 
-
+#about-me-body{
+	border: 20px solid #3E3E40;
+}
 
 #about{
 	margin-left: 20px;
