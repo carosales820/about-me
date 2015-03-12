@@ -5,7 +5,9 @@ body{
 
 
 #about-me-body{
-	border: 20px solid #3E3E40;
+	border-right: 20px solid #3E3E40;
+	border-left: 20px solid #3E3E40;
+	border-top: 20px solid #3E3E40;
 }
 
 #about{
