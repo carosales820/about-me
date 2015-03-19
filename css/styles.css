@@ -11,6 +11,16 @@ body{
 
 }
 
+.work{
+	list-style: none;
+}
+
+.ba{
+	text-align: center;
+	font-family: 'Quicksand', sans-serif;
+	color: #a6a6a6;
+}
+
 .skills{
 	list-style: none;
 	color: #a6a6a6;
