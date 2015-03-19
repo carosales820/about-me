@@ -1,3 +1,3 @@
 $('.ui.accordion')
-  .accordion().close(index)
+  .accordion(close)
 ;
