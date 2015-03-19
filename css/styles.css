@@ -3,6 +3,26 @@ body{
 	color: white;
 }
 
+#contact-info{
+	margin-top: 75px;
+	list-style: none;
+	color: #fff;
+	font-family: 'Quicksand', sans-serif;
+
+}
+
+
+
+#email{
+	color: #fff;
+}
+
+#email:hover{
+	color: #002434;
+	background: #a6a6a6;
+	border-radius: 2px;
+}
+
 
 #about{
 	margin-left: 20px;
@@ -53,11 +73,13 @@ nav{
 
 h2{
 	text-align: center;
+	font-family: 'Quicksand', sans-serif;
 }
 
 em{
 	font-size: 10px;
 	color: #a6a6a6;
+	font-family: 'Quicksand', sans-serif;
 }
 
 @media only screen and (min-width:1024px) {
