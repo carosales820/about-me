@@ -11,7 +11,10 @@ body{
 
 }
 
-
+.skills{
+	list-style: none;
+	color: #a6a6a6;
+}
 
 #email{
 	color: #fff;
